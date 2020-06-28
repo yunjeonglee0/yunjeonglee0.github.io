@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Website for Yunjeong Lee under Construction
 
 layout: home
 ---
+
+[First blog post](blogpost001.md)

@@ -1,3 +1,3 @@
-# Personal website for Yunjeong Lee under construction at the moment
+# Website for Yunjeong Lee under Construction!
 
 [First blog post](blogpost001.md)
