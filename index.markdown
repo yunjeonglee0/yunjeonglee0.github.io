@@ -1,7 +1,8 @@
 ---
-# Website for Yunjeong Lee under Construction
+# Website under Construction
 
 layout: home
+permalink: /home/
 ---
 
-[First blog post](blogpost001.md)
+
