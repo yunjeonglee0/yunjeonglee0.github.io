@@ -99,7 +99,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 
 <br />
 
-Overall, what I found truly amazing was that all the people I’ve talked to, without any exception, were genuinely encouraging and very much willing to help. It felt as if they were freely offering their service without asking for anything in return. Almost all the professors and PhD students I’ve talked to mentioned that I can reach out to them anytime in the future, if I need their help. I personally do not know much about how other fields are like. But, I have been so touched that I have this feeling that, going forward, I will come to appreciate being part of the PL community even more.
+Overall, what I found truly amazing was that all the people I’ve talked to, without any exception, were genuinely encouraging and very much willing to help. It felt as if they were freely offering their service without asking for anything in return. Almost all the professors and PhD students I’ve talked to mentioned that I can reach out to them anytime in the future, if I need their help. I personally do not know much about how other fields are like. But, I have been so touched and I have this feeling that, going forward, I will come to appreciate being part of the PL community even more.
 
 Lastly, I would like to thank my advisor, _Ilya Sergey_, for encouraging me to reach out to mentors via PLDI `#mentoring`, as well as the following professors, professionals, and PhD students for their guidance:
 _Karim Ali_, _Benjamin Delaware_, _Ranjit Jhala_, _Jeehoon Kang_, _Paulette Koronkevich_, _Lindsey Kuper_, _Santosh Nagarakatte_, _Mangpo Phothilimthana_, _Nadia Polikarpova_, _Roopsha Samanta_, _Kartik Singhal_, _Manu Sridharan_, _Emma Tosch_, and _Xinyu Wang_.
