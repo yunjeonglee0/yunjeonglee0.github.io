@@ -21,7 +21,7 @@
 title: Yunjeong Lee
 email: yunjeong.lee@acm.org #To change this to NUS SoC email address
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my homepage.
+  Welcome to my website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leeyunjeong.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lyunjeong
