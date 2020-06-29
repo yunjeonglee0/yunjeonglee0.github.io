@@ -4,9 +4,11 @@ title:  "What I Learned from My First PLDI Experience"
 date:   2020-06-27 23:50:50 +0800
 categories: jekyll update
 ---
-[Programming Language Design and Implementation (PDLI) this year](https://pldi20.sigplan.org/) was held virtually due to COVID-19. I took this opportunity to attend the conference, but at the same time, I honestly did not expect to get much out of this experience. That is because I thought the conference would be mostly about discussing publications of technical papers by much more experienced people in the field. Hence, I initially thought I’d give it a try and see what kind of work people publish in such a renowned conference as a way to get myself familiar with what I am expected to produce further down the road.
+[Programming Language Design and Implementation (PLDI) this year](https://pldi20.sigplan.org/) was held virtually due to COVID-19. I took this opportunity to attend the conference, but at the same time, I honestly did not expect to get much out of this experience. That is because I thought the conference would be mostly about discussing publications of technical papers by much more experienced people in the field. Hence, I initially thought I’d give it a try and see what kind of work people publish in such a renowned conference as a way to get myself familiar with what I am expected to produce further down the road.
 
 But I was wrong! There were these [Programming Languages Mentoring Workshop (PLMW)](https://pldi20.sigplan.org/home/PLMW-PLDI-2020) as well as ["Ask Me Anything" track](https://pldi20.sigplan.org/track/pldi-2020-ask-me-anything#About), discussing effective habits for navigating the research landscape and providing opportunities for students to interact with researchers in the field, among other things. In some of these sessions, experienced, senior people were genuinely sharing their research experiences and other stories of building their (research) career in non-technical, everyday English, which was enlightening and encouraging for early-stage graduate students like me. What I enjoyed the most was the Slack’s `#mentoring` channel, where attendees could reach out to volunteer mentors and have 1:1 meetings. Through the channel, I could talk to 14 people in total – either professors, professionals or PhD students. I enjoyed these individual meetings so much that I decided to write a blog post about it and share with anyone who might be interested. Below are their responses to the questions I asked.
+
+<br />
 
 ### Question 1: What are some good ways to come up with research topics, especially for junior PhD students? How can I figure out what I am interested in?
 
@@ -22,6 +24,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - Don’t limit your network to the PL community. You can learn from people in other communities. In the long run, there could be collaborative work with other fields. New ideas may come up by mashing up two different fields. In this sense, reading non-PL papers could be helpful.
 - Make use of **graduate course projects** to try out some crazy ideas or explore ideas that you are interested in. Explore the current topics and see who’s been working on the area. Brainstorm ideas and discuss them if you come across these people at the conferences.
 
+<br />
 
 ### Question 2: What are some useful techniques when it comes to reading papers?
 
@@ -33,6 +36,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - One thing you can do when figuring out whether to thoroughly read the paper or not is first by going over the **Abstract, Introduction, and Evaluation**. If you find the evaluation interesting, then you go to the middle part and dig further.
 - Make use of **reading groups** and **graduate courses**. Explaining and presenting to others is a way to force to understand the papers. Also, taking more advanced graduate courses will help you better understand the papers. 
 
+<br />
 
 ### Question 3: How can I better manage my time as a PhD student?
 
@@ -44,7 +48,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - As a first- or second-year PhD student, you may have to take classes. Let your advisor know of your schedule.
 - Make sure you take your time off. It affects your productivity.
 
-
+<br />
 
 ### Question 4: Would you recommend going for an internship during PhD?
 
@@ -54,7 +58,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - Internship will help you **change your perspective** and learn different things by working with different people.
 - Students are usually recommended to go for an internship either earlier or latter – after 3rd year – stages of your PhD program. That is because you may need the summer in 2nd or 3rd years to work on developing ideas for your thesis/research project (i.e., after passing Qualifying Exam and achieving your Candidacy).
 
-
+<br />
 
 ### Question 5: Any other useful tips or advice for (junior) PhD students?
 
@@ -83,6 +87,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - It could be example that somebody else had come up with, where you fixed minor issues. You can write a blog post about it.
 - Your goal is to become **better at (technical) writing**. This will improve your paper-writing skills.
 
+<br />
 
 ### Question 6: What are some useful resources or background materials for me to review as a junior student in the PL field?
 
@@ -92,7 +97,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - [Types and Programming Languages by Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl/) (bible for PL)
 - [Practical Foundations for Programming Languages by Robert Harper](https://www.cambridge.org/core/books/practical-foundations-for-programming-languages/3D852B5A14F48F85C60B95A0BBCAB7D9)
 
-
+<br />
 
 Overall, what I found truly amazing was that all the people I’ve talked to, without any exception, were genuinely encouraging and very much willing to help. It felt as if they were freely offering their service, without expecting anything in return. Almost all the professors and PhD students I’ve talked to mentioned that I can reach out to them anytime in the future, if I need their help. I personally do not know much about how other CS (or non-CS) fields are like. But I was so touched by such culture and have this feeling that, going forward, I will come to appreciate being part of the PL community even more.
 
