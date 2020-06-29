@@ -1,6 +1,6 @@
 
 
-Starting in August 2020, I will be a PhD student at [School of Computing](https://www.comp.nus.edu.sg/) at National University of Singapore (NUS), working with Prof. [Ilya Sergey](https://ilyasergey.net/). I have been a Research Intern at NUS School of Computing since March, 2019. I have my Masters of Science in Energy Systems from Skolkovo Institute of Science and Technology, and Bachelor of Science in Finance and Mathematics from New York University.
+Starting in August 2020, I will be a PhD student at [School of Computing](https://www.comp.nus.edu.sg/) at National University of Singapore (NUS), working with Prof. [Ilya Sergey](https://ilyasergey.net/). I have been a Research Intern at NUS School of Computing since March, 2019. Prior to that, I worked as a consultant for [Samjong KPMG](https://home.kpmg/kr/en/home/about/overview.html) since October 2017. I have my Masters of Science in Energy Systems from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/), and Bachelor of Science in Finance and Mathematics from [New York University](https://www.nyu.edu/).
 
 
 [![alt text][1.1]][1] &nbsp; [![alt text][1.2]][2] &nbsp; [![alt text][1.3]][3]
