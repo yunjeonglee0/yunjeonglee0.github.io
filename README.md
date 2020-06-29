@@ -1,18 +1,17 @@
-I'm a PhD student in Computer Science at National University of Singapore School of Computing.
 
-## Research
 
-Currently, I am exploring topics in the Programming Languages field.
+Starting in August 2020, I will be a PhD student at [School of Computing](https://www.comp.nus.edu.sg/) at National University of Singapore (NUS), working with Prof. [Ilya Sergey](https://ilyasergey.net/). I have been a Research Intern at NUS School of Computing since March, 2019. I have my Masters of Science in Energy Systems from Skolkovo Institute of Science and Technology, and Bachelor of Science in Finance and Mathematics from New York University.
 
-## Education
 
-in-progress
+[![alt text][1.1]][1] &nbsp; [![alt text][1.2]][2] &nbsp; [![alt text][1.3]][3]
 
-## Employment
+<br />
 
-in-progress
+[1.1]: https://img.icons8.com/material-outlined/30/000000/send.png
 
-## Posts
+[1.2]: https://img.icons8.com/ios-glyphs/30/000000/twitter.png
+[1.3]: https://img.icons8.com/ios-filled/30/000000/github.png
 
-[Wha I Learned from My First PLDI Experience](2020-06-27-my-first-pldi.md) Jun 27, 2020 
-
+[1]: mailto:yunjeong.lee@acm.org
+[2]: http://www.twitter.com/lyunjeong
+[3]: https://github.com/yunjeong-lee
