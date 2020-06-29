@@ -28,7 +28,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 
 ### *Question 2: What are some useful techniques when it comes to reading papers?*
 
-### Answers:
+### *Answers:*
 - **Survey papers** are typically a good introduction to a topic. They tend to be easier to understand than other technical papers.
 - Well-written **dissertations** can be helpful too as they tend to include survey of the corresponding research area.
 - Read papers as your **daily ritual**. You will have to spend a lot of time reading papers before they start making sense.
