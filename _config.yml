@@ -31,7 +31,7 @@ url: "http://leeyunjeong.com" # the base hostname & protocol for your site, e.g.
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
+  #- jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
