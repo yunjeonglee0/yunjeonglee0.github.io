@@ -33,8 +33,8 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - Well-written **dissertations** can be helpful too as they tend to include survey of the corresponding research area.
 - Read papers as your **daily ritual**. You will have to spend a lot of time reading papers before they start making sense.
 - Don’t just skim through them but make conscious efforts to **remain critical** when reading. If there’s anything that does not make sense to you, **take notes** and ask your advisor or other senior students about them. Make sure you understand them.
-- One thing you can do when figuring out whether to thoroughly read the paper or not is first by going over the **Abstract, Introduction, and Evaluation**. If you find the evaluation interesting, then you go to the middle part and dig further.
-- Make use of **reading groups** and **graduate courses**. Explaining and presenting to others is a way to force to understand the papers. Also, taking more advanced graduate courses will help you better understand the papers. 
+- One thing you can do when figuring out whether to thoroughly read the paper or not is first by going over the **Abstract, Introduction, and Evaluation**. If you find the evaluation interesting, then go to the middle part and dig further.
+- Make use of **reading groups** and **graduate courses**. Explaining and presenting to others is a way to force yourself to understand the papers. Also, taking more advanced graduate courses will help you better understand the papers. 
 
 <br />
 
@@ -44,7 +44,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - **Set aside time** for things you have to do every day. Enumerate your tasks and break them down into smaller tasks, and make sure you do them. 
     - For example, there could four things to work on, such as reading papers, doing math, programming, and writing. As you do one thing, cross one off and move it to the bottom. The following day, start from what is on top.
     - Spending the whole day doing one thing will not make you very productive.
-- Using **task management system** can help you.
+- Using a **task management system** can help you.
 - As a first- or second-year PhD student, you may have to take classes. Let your advisor know of your schedule.
 - Make sure you **take your time off**. It affects your productivity.
 
@@ -56,7 +56,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - There are people who take it as a personal choice. Regardless, the response was overall **YES**.
 - Internship is a great opportunity for you to figure out whether you want to stay in the academia or work in the industry after PhD. Working in the industry can enable you to see more direct impact of your research, but your freedom in research may be limited by your employer.
 - Internship will help you **change your perspective** and learn different things by working with different people.
-- Students are usually recommended to go for an internship in either earlier or latter – after 3rd year – stage of your PhD program. That's because you may need the summer in 2nd or 3rd year to work on developing ideas for your thesis/research project(s) (i.e., after passing Qualifying Exam and achieving your Candidacy).
+- Students are usually recommended to go for an internship in either earlier or later – after 3rd year – stages of your PhD program. That's because you may need the summer in 2nd or 3rd year to work on developing ideas for your thesis/research project(s). So, consider doing it in the later stages of your PhD  (i.e., after passing Qualifying Exam and achieving your Candidacy).
 
 <br />
 
@@ -84,7 +84,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - It hardly matters what you write about. You can write about **anything you are reading**. Write about **your perspectives**, anything you find interesting and/or surprising.
     - E.g., how SMT solvers work, how it uses algorithms for optimization problems, etc.
 - Ask yourself, _“how would you explain it to yourself 5 years ago?”_. The blog posts don’t have to be everything to everyone. Think of it as a service to the community.
-- It could be example that somebody else had come up with, where you fixed minor issues. Then you can write a blog post about it.
+- It could be an example that somebody else had come up with, where you fixed minor issues. Then you can write a blog post about it.
 - Your goal is to become **better at (technical) writing**. This will improve your paper-writing skills.
 
 <br />
@@ -93,14 +93,14 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 
 ### *Answers:*
 - [Oregon Programming Language Sumer School (OPLSS) talks](https://www.youtube.com/channel/UCDe6N9R7U-RYWA57wzJQ2SQ)
-- [Coursera Programming Languages Part A, B, C](https://www.coursera.org/learn/programming-languages) (_a good intro before reading TAPL_)
+- [Coursera Programming Languages Part A, B, C by Dan Grossman](https://www.coursera.org/learn/programming-languages) (_a good intro before reading TAPL_)
 - [Types and Programming Languages by Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl/) (_a bible for PL_)
 - [Practical Foundations for Programming Languages by Robert Harper](https://www.cambridge.org/core/books/practical-foundations-for-programming-languages/3D852B5A14F48F85C60B95A0BBCAB7D9)
 
 <br />
 
-Overall, what I found truly amazing was that all the people I’ve talked to, without any exception, were genuinely encouraging and very much willing to help. It felt as if they were freely offering their service without asking for anything in return. Almost all the professors and PhD students I’ve talked to mentioned that I can reach out to them anytime in the future, if I need their help. I personally do not know much about how other fields are like. But, I have been so touched and I have this feeling that, going forward, I will come to appreciate being part of the PL community even more.
+Overall, what I found truly amazing was that all the people I’ve talked to, without any exception, were genuinely encouraging and very much willing to help. It felt as if they were freely offering their service without asking for anything in return. Almost all the professors and PhD students I’ve talked to mentioned that I can reach out to them anytime in the future, if I need their help. I personally don't know much about how other fields are like. But, I have been so touched and have this feeling that, going forward, I will come to appreciate being part of the PL community even more.
 
-Lastly, I would like to thank my advisor, _Ilya Sergey_, for encouraging me to reach out to mentors via PLDI `#mentoring`, as well as the following professors, professionals, and PhD students for their guidance:
-_Karim Ali_, _Benjamin Delaware_, _Ranjit Jhala_, _Jeehoon Kang_, _Paulette Koronkevich_, _Lindsey Kuper_, _Santosh Nagarakatte_, _Mangpo Phothilimthana_, _Nadia Polikarpova_, _Roopsha Samanta_, _Kartik Singhal_, _Manu Sridharan_, _Emma Tosch_, and _Xinyu Wang_.
+Lastly, I would like to thank my advisor, [_Ilya Sergey_](https://ilyasergey.net/), for encouraging me to reach out to mentors via PLDI `#mentoring`, as well as the following professors, professionals, and PhD students for their guidance:
+[_Karim Ali_](https://karimali.ca/), [_Benjamin Delaware_](https://www.cs.purdue.edu/homes/bendy/), [_Ranjit Jhala_](https://ranjitjhala.github.io/), [_Jeehoon Kang_](https://cp.kaist.ac.kr/jeehoon.kang/), [_Paulette Koronkevich_](https://koronkevi.ch/), [_Lindsey Kuper_](https://users.soe.ucsc.edu/~lkuper/), [_Santosh Nagarakatte_](https://www.cs.rutgers.edu/~santosh.nagarakatte/), [_Phitchaya Mangpo Phothilimthana_](https://mangpo.net/), [_Nadia Polikarpova_](https://cseweb.ucsd.edu/~npolikarpova/), [_Roopsha Samanta_](https://www.cs.purdue.edu/homes/roopsha/), [_Kartik Singhal_](http://ks.cs.uchicago.edu/), [_Manu Sridharan_](https://manu.sridharan.net/), [_Emma Tosch_](http://blog.emmatosch.com/bio.html), and [_Xinyu Wang_](https://web.eecs.umich.edu/~xwangsd/).
 
