@@ -56,7 +56,7 @@ But I was wrong! There were these [Programming Languages Mentoring Workshop (PLM
 - There are people who take it as a personal choice. Regardless, the response was overall **YES**.
 - Internship is a great opportunity for you to figure out whether you want to stay in the academia or work in the industry after PhD. Working in the industry can enable you to see more direct impact of your research, but your freedom in research may be limited by your employer.
 - Internship will help you **change your perspective** and learn different things by working with different people.
-- Students are usually recommended to go for an internship in either earlier or later – after passing Qualifying Exam and achieving Candidacy – stages of the PhD program. That's because you may need the summer in 2nd or 3rd year to work on developing ideas for your thesis/research project(s)..
+- Students are usually recommended to go for an internship in either earlier or later – after passing Qualifying Exam and achieving Candidacy – stages of the PhD program. That's because you may need the summer in 2nd or 3rd year to work on developing ideas for your thesis/research project(s).
 
 <br />
 
