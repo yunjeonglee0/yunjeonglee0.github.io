@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Permalinks
+permalink:        /blog/:year/:month/:day/:title/
+
 title: Yunjeong Lee
 # email: yunjeong.lee@acm.org #To change this to NUS SoC email address
 description: >- # this means to ignore newlines until "baseurl:"
