@@ -1,4 +1,6 @@
 
+![profile-image](https://i.postimg.cc/05BFs7SM/Yunjeong-Lee-Photo4-Website.png){:style="float: left;margin-right: 7px;margin-top: 7px;" :height="184px" width="138px"}
+
 
 Starting in August 2020, I will be a PhD student at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS), working with [Prof. Ilya Sergey](https://ilyasergey.net/). I have been a Research Intern at NUS School of Computing since March, 2019. Prior to that, I worked as a consultant for [KPMG Korea](https://home.kpmg/kr/en/home/about/overview.html) since 2017. I have Master of Science in Energy Systems from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/), and Bachelor of Science in Finance and Mathematics from [New York University](https://www.nyu.edu/).
 
