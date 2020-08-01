@@ -221,7 +221,7 @@ Primary operators are:
 - <> (“eventually”): a property will become true at some point in the future, and
 - [] (“always”): a property is satisfied now and forever into the future.
 
-For example, the property that the two lights are never green simultaneously, i.e., [] (! (g1 && g2)), from the **Example 2** above can be expressed in LTL as  ▢ ¬(g1∧g2)).
+For example, the property that the two lights are never green simultaneously, i.e., [] (! (g1 && g2)), from the **Example 2** above can be expressed in LTL as  ▢ ¬(g1∧g2).
 
 Some of the common composite operators include:
 - p -> ♢ q          p implies eventually q (response)
