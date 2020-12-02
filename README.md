@@ -14,6 +14,6 @@ I am a first-year PhD student at the [School of Computing](https://www.comp.nus.
 [1.2]: https://img.icons8.com/ios-glyphs/30/000000/twitter.png
 [1.3]: https://img.icons8.com/ios-filled/30/000000/github.png
 
-[1]: mailto:yunjeong.lee@acm.org
+[1]: mailto:yunjeong@comp.nus.edu.sg
 [2]: http://www.twitter.com/lyunjeong
 [3]: https://github.com/yunjeong-lee
